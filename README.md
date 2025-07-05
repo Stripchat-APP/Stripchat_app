@@ -1,7 +1,7 @@
 # Stripchat APP
-iPhone download  
+iPhone download  苹果端
 https://github.com/Stripchat-app/Stripchat_app/releases/download/StripchatAPP/Stripchat-1.0.2.ipa  
-Android download  
+Android download  安卓端
 https://github.com/Stripchat-app/Stripchat_app/releases/download/StripchatAPP/Stripchat-v1.0.2.apk  
 
 APP需要翻墙才能正常使用  
