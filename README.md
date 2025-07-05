@@ -1,4 +1,11 @@
 # Stripchat APP
+iPhone download  
+https://github.com/Stripchat-app/Stripchat_app/releases/download/StripchatAPP/Stripchat-1.0.2.ipa  
+Android download  
+https://github.com/Stripchat-app/Stripchat_app/releases/download/StripchatAPP/Stripchat-v1.0.2.apk  
+
+
+
 free sexlive show  
 stripchat分站，不用翻  
 https://stlivexxx.com  
