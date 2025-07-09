@@ -9,6 +9,9 @@ In areas where the network is blocked, apps need to use VPN to bypass walls in o
 网络被封锁的地区，APP需要使用vpn翻墙才能正常使用  
 vpn download下载:  
 https://heysocks.net/share/x29xRB  
+
+下面这个vpn注册免费一年，使用起来感觉不太稳定：  
+https://www.anyi8.com/app/download?platform=2&channel=download_01&mid=1000&ts=1752063235895&app=ay  
   
   
 New registered users, remember to verify your email, otherwise you won't be able to log in again  
